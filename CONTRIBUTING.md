@@ -3,7 +3,6 @@
 This guide applies to every Externalize Labs repository without its own. The
 projects take part in the [Stellar Wave](https://www.drips.network/wave/stellar)
 program; Wave issues are labeled with their complexity.
-labeled with their complexity.
 
 ## Setup
 
