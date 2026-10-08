@@ -7,6 +7,8 @@
 
 <p align="center"><b>Verify Stellar from the validators' own signatures.</b></p>
 
+<p align="center"><a href="https://externalize-labs.github.io/externalize/"><b>Verify a mainnet proof in your browser →</b></a></p>
+
 Wallets, indexers, bridges and payment facilitators trust whatever their RPC
 tells them. Externalize replaces that trust with proof: SCP signatures from the
 validators you choose, then hash commitments down to a single transaction or
